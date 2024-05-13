@@ -1,3 +1,4 @@
+// For a bit SEO 😊
 import { Helmet } from 'react-helmet';
 
 const HelmetHead = () => {
